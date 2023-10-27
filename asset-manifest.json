@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DPlix-new/static/css/main.a2ec1992.css",
-    "main.js": "/DPlix-new/static/js/main.99c3fc3e.js",
+    "main.js": "/DPlix-new/static/js/main.ecf7d068.js",
     "static/js/787.75633226.chunk.js": "/DPlix-new/static/js/787.75633226.chunk.js",
     "static/media/logo.png": "/DPlix-new/static/media/logo.ab7b4271ebf2e2cb1fb9.png",
     "index.html": "/DPlix-new/index.html",
     "main.a2ec1992.css.map": "/DPlix-new/static/css/main.a2ec1992.css.map",
-    "main.99c3fc3e.js.map": "/DPlix-new/static/js/main.99c3fc3e.js.map",
+    "main.ecf7d068.js.map": "/DPlix-new/static/js/main.ecf7d068.js.map",
     "787.75633226.chunk.js.map": "/DPlix-new/static/js/787.75633226.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2ec1992.css",
-    "static/js/main.99c3fc3e.js"
+    "static/js/main.ecf7d068.js"
   ]
 }
